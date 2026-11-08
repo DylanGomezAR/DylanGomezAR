@@ -43,3 +43,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+
+
+📚 Courses & Certifications:
+
+Data Science Essentials with Python.
+Introduction to Data Science.
+Data Analytics Essentials.
+Introduction to Modern AI.
+AI Fundamentals with IBM SkillsBuild.
+Fundamentos de Python 1.
+Business Process Management.
+
+🌎 I have a B2 level of English, allowing me to communicate effectively and work with technical documentation and resources in English.
