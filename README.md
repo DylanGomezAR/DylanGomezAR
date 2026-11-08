@@ -1,4 +1,8 @@
-<h1 align="center">Hi , I'm Dylan Gomez Arango👋
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=367BF5&size=32&lines=Hey!+It's+Dylan+Gomez!;I'm+a+learning+developer...;I'm+a+Systems+Engineering...)](https://git.io/typing-svg)
+
+
 <img width="1945" height="808" alt="347cbd10-432b-46af-ba4f-e688778a899c" src="https://github.com/user-attachments/assets/d9f405ab-9a05-4ad0-ae5e-5a0e9aa9ebb2" />
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
