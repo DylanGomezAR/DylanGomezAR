@@ -18,7 +18,7 @@
 
 ✉️  You can contact me through my professional email dylangomezar123@gmail.com. I'll try to respond as soon as possible.&#x20;
 
-📄  Feel free to check out my [Résumé](#) for more details about my skills, projects, and professional background. I'm always open to feedback and new opportunities!
+📄  Feel free to check out my profile for more details about my skills, projects, and professional background. I'm always open to feedback and new opportunities!
 
 
 
